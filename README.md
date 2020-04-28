@@ -1,1 +1,1 @@
-# volatile_vgf_abm
+development of the VGF module of the VOLATILE model
